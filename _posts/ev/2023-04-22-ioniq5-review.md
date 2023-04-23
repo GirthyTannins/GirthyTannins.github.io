@@ -1,5 +1,5 @@
 ---
-title: Hyundai IONIQ5 Review
+title: IONIQ5 Review
 categories: [ev]
 tags: [ev,tech]     # TAG names should always be lowercase
 ---
